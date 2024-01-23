@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "titulo": "Salsa Golf ",
+        "descripcion": "Salsa golf NATURA 250g",
+        "categoria": "NATURA",
+        "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/191230/Salsa-Golf-Natura-Aderezo-Salsa-Golf-Natura-250-Gr-1-27580.jpg?v=636383519437230000",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "titulo": "Ketchup",
+        "descripcion": "Ketchup NATURA 250g",
+        "categoria": "NATURA",
+        "imagen": "https://veaargentina.vtexassets.com/arquivos/ids/191221/Ketchup-Natura-Aderezo-Ketchup-Natura-250-Gr-1-27571.jpg?v=636383519375430000",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 3,
+        "titulo": "Mayonesa",
+        "descripcion": "Mayonesa NATURA 250g",
+        "categoria": "NATURA",
+        "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/685480/Aderezo-Mayonesa-Natura-475-Gr-1-9501.jpg?v=637786569809200000",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 4,
+        "titulo": "Aceite de girasol spray",
+        "descripcion": "Aceite de girasol spray NATURA 120g",
+        "categoria": "NATURA",
+        "imagen": "https://arcordiezb2c.vteximg.com.br/arquivos/ids/162165/Aceite-Roc-o-Vegetal-Girasol-en-Aerosol-Natura-120-Cc-1-4099.jpg?v=637479702050900000",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 5,
+        "titulo": "Aceite de girasol",
+        "descripcion": "Aceite de girasol NATURA 1,5L",
+        "categoria": "NATURA",
+        "imagen": "https://d3340tyzmtlo4u.cloudfront.net/users/864/images/detailed/15/Natura_Aceite_Puro_de_Girasol,_1,5_l.jpg",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 6,
+        "titulo": "Aceite de oliva",
+        "descripcion": "Aceite de oliva NATURA 1,5L",
+        "categoria": "NATURA",
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00576000/00576035.jpg?3.0.165",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 7,
+        "titulo": "Mayonesa clasica",
+        "descripcion": "Mayonesa clasica HELLMANNS 250g",
+        "categoria": "HELLMANNS",
+        "imagen": "https://assets.unileversolutions.com/v1/91472383.png",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 8,
+        "titulo": "Ketchup",
+        "descripcion": "Ketchup HELLMANNS 250g",
+        "categoria": "HELLMANNS",
+        "imagen": "https://laplandia.fi/uploads/Food_Products/Canned%20Food/8710522920664.jpg",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 9,
+        "titulo": "Salsa Golf",
+        "descripcion": "Salsa Golf HELLMANNS 250g",
+        "categoria": "HELLMANNS",
+        "imagen": "https://assets.unileversolutions.com/v1/89129552.png",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 10,
+        "titulo": "Mayonesa ligera",
+        "descripcion": "Mayonesa ligera HELLMANNS 250g",
+        "categoria": "HELLMANNS",
+        "imagen": "https://cdn1.kilbelonline.com/webapp/images/productos/b/0000019000/19629.jpg",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 11,
+        "titulo": "Mayonesa ahumada",
+        "descripcion": "Mayonesa ahumada HELLMANNS 250g",
+        "categoria": "HELLMANNS",
+        "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/266154/7794000006560_E02.jpg?v=638051633454600000",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 12,
+        "titulo": "Mayonesa Vegana",
+        "descripcion": "Mayonesa Vegana HELLMANNS 250g",
+        "categoria": "HELLMANNS",
+        "imagen": "https://assets.unileversolutions.com/v1/91527933.png",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 13,
+        "titulo": "Ketchup",
+        "descripcion": "Ketchup FANACOA 250g",
+        "categoria": "FANACOA",
+        "imagen": "https://verdeluz.com.ar/wp-content/uploads/2020/06/Ketchup-Fanacoa-250G.jpg",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 14,
+        "titulo": "Mayonesa",
+        "descripcion": "Mayonesa FANACOA 250g",
+        "categoria": "FANACOA",
+        "imagen": "https://d1on8qs0xdu5jz.cloudfront.net/webapp/images/fotos/b/0000000000/735_1.jpg",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 15,
+        "titulo": "Mostaza",
+        "descripcion": "Mostaza FANACOA 250g",
+        "categoria": "FANACOA",
+        "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/557743/Aderezo-Mostaza-Fanacoa-250-Gr-2-1939.jpg?v=637117171307700000",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 16,
+        "titulo": "Mayonesa ligth",
+        "descripcion": "Mayonesa ligth CADA DIA 250g",
+        "categoria": "CADA DIA",
+        "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/499732/Mayonesa-Cada-Dia-Light-1-425492.jpg?v=636792439185300000",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 17,
+        "titulo": "Mayonesa ",
+        "descripcion": "Mayonesa CADA DIA 250g",
+        "categoria": "CADA DIA",
+        "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/176787-800-600?v=636383337657070000&width=800&height=600&aspect=true",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 18,
+        "titulo": "Salsa Golf ",
+        "descripcion": "Salsa golf CADA DIA 250g",
+        "categoria": "CADA DIA",
+        "imagen": "https://productosmarcas.agd.com.ar/wp-content/uploads/salsa-golf-cada-dia-250-cm-3-alta.jpg",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 19,
+        "titulo": "Ketchup",
+        "descripcion": "Ketchup CADA DIA 250g",
+        "categoria": "CADA DIA",
+        "imagen": "https://productosmarcas.agd.com.ar/wp-content/uploads/ketchup-cada-dia-250-cm3-alta.jpg",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 20,
+        "titulo": "Aceite cada día",
+        "descripcion": "Aceite de girasol CADA DIA 1,5L",
+        "categoria": "CADA DIA",
+        "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/174681/Aceite-De-Girasol-Cada-Dia-X-900-Mt-1-33923.jpg?v=637835150341370000",
+        "precio": 1500,
+        "stock": 10
+    }
+]
